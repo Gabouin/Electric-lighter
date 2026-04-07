@@ -8,7 +8,9 @@ The circuit : ![IMG_6403](https://github.com/user-attachments/assets/6ffc6ee7-df
 
 The CAD enclosure : <img width="968" height="671" alt="image" src="https://github.com/user-attachments/assets/704921a3-4461-42cb-acf9-9882d4161818" />
 
-The final product : * **coming soon** *
+The final product : 
+
+![1](https://github.com/user-attachments/assets/2d547b7d-7cd5-4a53-b94d-dae346e632f1)
 
 The wiring diagram on KiCad : 
 
