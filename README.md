@@ -2,6 +2,7 @@
 I'm building an electric lighter using a vape battery, a charging module, a toaster heating element, and a 3D-printed case.
 I don't vape and found the old vape on the ground outside so I decided to take it and make something useful out of that sh*t.
 This lighter will be used for different things like starting a campfire or just burn things for fun !
+Video of the demo : https://youtube.com/shorts/gVn74AAT994
 
 The circuit : 
 
