@@ -11,6 +11,7 @@ The CAD enclosure : <img width="968" height="671" alt="image" src="https://githu
 The final product : * **coming soon** *
 
 The wiring diagram on KiCad : 
-<img width="1124" height="782" alt="Capture d&#39;écran 2026-04-06 162604" src="https://github.com/user-attachments/assets/6da28ed9-642c-4a8e-8d30-d7b5e2494283" />
 
-<img width="370" height="791" alt="Capture d&#39;écran 2026-04-06 162527" src="https://github.com/user-attachments/assets/ff7c0bf5-90ee-41c1-aab8-2c6fa16a36ea" />
+<img width="734" height="514" alt="Capture d&#39;écran 2026-04-07 174837" src="https://github.com/user-attachments/assets/9ce767e1-1db6-403d-bbf6-bb0a3bd62f55" />
+
+<img width="321" height="795" alt="Capture d&#39;écran 2026-04-07 174827" src="https://github.com/user-attachments/assets/3d47b3ca-f959-4605-90af-c45848d23aa8" />
