@@ -3,14 +3,17 @@ I'm building an electric lighter using a vape battery, a charging module, a toas
 I don't vape and found the old vape on the ground outside so I decided to take it and make something useful out of that sh*t.
 This lighter will be used for different things like starting a campfire or just burn things for fun !
 
-The circuit : ![IMG_6403](https://github.com/user-attachments/assets/6ffc6ee7-df6f-4532-81b7-1d6471d2e09a)
+The circuit : 
+
+![IMG_6403](https://github.com/user-attachments/assets/6ffc6ee7-df6f-4532-81b7-1d6471d2e09a)
 
 
 ___________________________________________________________________________________________________________________________________________________________________
 
 
-The CAD enclosure : <img width="968" height="671" alt="image" src="https://github.com/user-attachments/assets/704921a3-4461-42cb-acf9-9882d4161818" />
+The CAD enclosure :  
 
+<img width="780" height="634" alt="Capture d&#39;écran 2026-04-07 185754" src="https://github.com/user-attachments/assets/5113c64e-cd9b-433e-ae8d-2bb7b434807a" />
 ___________________________________________________________________________________________________________________________________________________________________
 
 
