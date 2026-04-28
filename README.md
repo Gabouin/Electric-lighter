@@ -5,7 +5,7 @@
 
 # Electric Lighter
 
-A compact electric lighter built from salvaged electronics and a 3D-printed enclosure. Powered by a recycled vape Li-ion battery, it uses a nichrome heating element to produce an arc-free, windproof flame — ideal for starting campfires or any situation where a standard lighter falls short.
+A compact electric lighter built from salvaged electronics and a 3D-printed enclosure. Powered by a recycled vape Li-ion battery, it uses a nichrome heating element to produce an arc-free, windproof flame. Ideal for starting campfires or any situation where a standard lighter falls short.
 
 ---
 
@@ -31,7 +31,7 @@ I found an old vape discarded on the ground and decided to repurpose its battery
 **To use it:**
 1. Charge via the USB-C port on the TP4056 module.
 2. Press and hold the push button.
-3. The nichrome heating element glows red-hot — use it to ignite tinder, paper, or anything else.
+3. The nichrome heating element glows red-hot : use it to ignite tinder, paper, or anything else.
 
 ---
 
