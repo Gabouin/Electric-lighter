@@ -3,13 +3,13 @@
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-PLA-green.svg)
 ![Schematic](https://img.shields.io/badge/Schematic-KiCad-yellow.svg)
 
-# 🔥 Electric Lighter
+# Electric Lighter
 
 A compact electric lighter built from salvaged electronics and a 3D-printed enclosure. Powered by a recycled vape Li-ion battery, it uses a nichrome heating element to produce an arc-free, windproof flame — ideal for starting campfires or any situation where a standard lighter falls short.
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Demo](#demo)
@@ -24,7 +24,7 @@ A compact electric lighter built from salvaged electronics and a 3D-printed encl
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 I found an old vape discarded on the ground and decided to repurpose its battery and charging module into something more useful. The result is a fully functional electric lighter housed in a custom 3D-printed enclosure.
 
@@ -35,13 +35,13 @@ I found an old vape discarded on the ground and decided to repurpose its battery
 
 ---
 
-## 🎬 Demo
+## Demo
 
-▶️ [Watch the demo on YouTube Shorts](https://youtube.com/shorts/gVn74AAT994)
+[Watch the demo on YouTube Shorts](https://youtube.com/shorts/gVn74AAT994)
 
 ---
 
-## 🛒 Bill of Materials
+## Bill of Materials
 
 | Item | Description | Source | Est. Price (USD) | Purchase Link |
 |------|-------------|--------|-----------------|---------------|
@@ -58,7 +58,7 @@ I found an old vape discarded on the ground and decided to repurpose its battery
 
 ---
 
-## 📁 CAD Files
+## CAD Files
 
 All CAD files are available in multiple formats for maximum compatibility.
 
@@ -72,13 +72,13 @@ All CAD files are available in multiple formats for maximum compatibility.
 
 ---
 
-## 🖼️ CAD Preview
+## CAD Preview
 
 <img width="780" alt="CAD enclosure" src="https://github.com/user-attachments/assets/5113c64e-cd9b-433e-ae8d-2bb7b434807a" />
 
 ---
 
-## ⚡ Wiring
+## Wiring
 
 The circuit is straightforward: the TP4056 module charges the Li-ion battery and provides over-charge/over-discharge protection. A push button connects the battery output directly to the nichrome heating element.
 
@@ -99,13 +99,13 @@ The built circuit before enclosing:
 
 ---
 
-## 🏁 Finished Build
+## Finished Build
 
 ![Finished lighter](https://github.com/user-attachments/assets/2d547b7d-7cd5-4a53-b94d-dae346e632f1)
 
 ---
 
-## 🔧 How to Build
+## How to Build
 
 1. **Print the enclosure** — Print `EL top part.3mf` and `EL bottom part.3mf` using PLA. Install the four M3 brass heat-set inserts into the bottom shell with a soldering iron.
 2. **Prepare the heating element** — Cut a short length of nichrome wire and attach it to two silicone wires using alligator clips or by soldering.
@@ -118,12 +118,12 @@ The built circuit before enclosing:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, improvements, and remixes are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
