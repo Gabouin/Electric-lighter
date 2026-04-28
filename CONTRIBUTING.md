@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this project! Whether you want to
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [What Contributions Are Welcome](#what-contributions-are-welcome)
 - [What Still Needs to Be Done](#what-still-needs-to-be-done)
@@ -15,45 +15,44 @@ Thank you for your interest in contributing to this project! Whether you want to
 
 ---
 
-## ✅ What Contributions Are Welcome
+## What Contributions Are Welcome
 
 This is a hardware / maker project, so contributions can take many forms:
 
-### 🛠️ Design & CAD
+### Design & CAD
 - Improvements or optimisations to the 3D-printed enclosure (top/bottom shells).
 - Alternative enclosure designs (e.g., different button placement, rounded edges, belt-clip variant).
 - New accessories or add-ons (e.g., safety cap, lanyard ring, carrying case).
 
-### ⚡ Electronics
+### Electronics
 - Alternative wiring diagrams or circuit improvements.
 - Adding a low-battery LED indicator.
 - Implementing a timer or auto-shutoff circuit to prevent overheating.
 - Replacing the nichrome element with an alternative heating approach (e.g., ceramic element).
 - PWM control to regulate element temperature.
 
-### 📝 Documentation
+### Documentation
 - Fixing typos, grammar, or unclear instructions in the README or other docs.
 - Adding step-by-step assembly photos or an illustrated build guide.
 - Translating documentation into another language.
 - Improving the KiCad schematic readability or adding component annotations.
 
-### 🐛 Bug Reports & Issues
+### Bug Reports & Issues
 - Reporting fitment problems with the 3D-printed enclosure.
 - Pointing out errors in the wiring diagram or BOM (wrong values, incorrect links).
 - Suggesting improvements to the build instructions.
 
 ---
 
-## 🔨 What Still Needs to Be Done
+## What Still Needs to Be Done
 
-Here are open improvements that would greatly benefit the project — feel free to pick one up:
+Here are open improvements that would greatly benefit the project. Feel free to pick one up:
 
 - [ ] **Safety cap / cover** — Design a printed cap that covers the heating element when not in use.
 - [ ] **Low-battery indicator** — Add a simple LED circuit that signals when the battery is nearly depleted.
 - [ ] **Auto-shutoff** — Implement a timer (e.g., 555 circuit or small MCU) that cuts power to the element after a set time.
 - [ ] **Improved wire management** — Redesign the enclosure interior to better route and retain wires.
-- [ ] **Charging indicator** — Surface the TP4056 status LEDs through the enclosure so charge state is visible without opening the case.
-- [ ] **Illustrated assembly guide** — Add annotated photos for each build step in the README.
+- [X] **Charging indicator** — Surface the TP4056 status LEDs through the enclosure so charge state is visible without opening the case. --> printing in transparent filament solve that problem.
 
 ---
 
@@ -110,7 +109,7 @@ Then open a Pull Request on GitHub against the `main` branch and describe:
 
 ---
 
-## 🔍 Submitting a Pull Request
+## Submitting a Pull Request
 
 To keep things consistent and easy to review, please follow these guidelines:
 
@@ -121,7 +120,7 @@ To keep things consistent and easy to review, please follow these guidelines:
 
 ---
 
-## 🐛 Reporting Issues
+## Reporting Issues
 
 If you find a problem, please [open an issue](../../issues/new) and include:
 
@@ -132,19 +131,19 @@ If you find a problem, please [open an issue](../../issues/new) and include:
 
 ---
 
-## 🌟 Sharing Your Build
+## Sharing Your Build
 
-Have you built this project? We'd love to see it!
+Have you built this project? I'd love to see it!
 
 - Open an issue with the label **"Show and Tell"** and share your photos.
 - Describe any modifications you made — your changes might inspire future improvements.
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 This project follows a simple rule: **be respectful and constructive**. Everyone is welcome regardless of experience level. If you are new to maker projects, hardware, or GitHub — don't hesitate to ask questions in the issues.
 
 ---
 
-Thank you for helping make this project better! 🚀
+Thank you for helping make this project better!
