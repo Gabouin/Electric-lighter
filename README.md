@@ -3,9 +3,21 @@
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-PLA-green.svg)
 ![Schematic](https://img.shields.io/badge/Schematic-KiCad-yellow.svg)
 
-# Electric Lighter
 
-A compact electric lighter built from salvaged electronics and a 3D-printed enclosure. Powered by a recycled vape Li-ion battery, it uses a nichrome heating element to produce an arc-free, windproof flame. Ideal for starting campfires or any situation where a standard lighter falls short.
+<table>
+  <tr>
+    <td width="17%">
+      <img width=100% alt="image" src="https://github.com/user-attachments/assets/d4c7bb2a-7c48-4c4c-b114-118e6000fbbe" />
+    </td>
+    <td>
+      <h1>Electric-lighter</h1>
+      <p>
+        A compact electric lighter built from salvaged electronics and a 3D-printed enclosure. Powered by a recycled vape Li-ion battery, it uses a nichrome       heating element to produce an arc-free, windproof flame. Ideal for starting campfires or any situation where a standard lighter falls short.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
