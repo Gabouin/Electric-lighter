@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![CAD](https://img.shields.io/badge/CAD-Fusion%20360-orange.svg)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-PLA-green.svg)
-![Schematic](https://img.shields.io/badge/Schematic-KiCad-yellow.svg)
+![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
+![3D Printing](https://img.shields.io/badge/Series-Special_Issue-red.svg)
+
 
 
 <table>
